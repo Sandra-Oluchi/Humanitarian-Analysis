@@ -39,7 +39,7 @@ The findings also highlight the importance of addressing issues such as airstrik
 
 
 PROJECT DOCUMENTATION:
-Humanitarian Data Analysis Report Template
+Humanitarian Data Analysis Report
 1. Executive Summary
 
 What the analysis is about
